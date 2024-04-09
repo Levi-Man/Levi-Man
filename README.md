@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on interesting projects with like-minded individuals.
 - 📫 How to reach me: indra.levi.manahan@gmail.com
 - 😄 Favorite saying: "If it works, it ain't stupid."
-- ⚡ Fun fact: I earned my Bachelor's Degree in Architecture at 43.
 
 <!---
 Levi-Man/Levi-Man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
